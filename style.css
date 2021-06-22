@@ -1,3 +1,6 @@
+body {
+	font-family: "Segoe UI", sans-serif;
+}
 #submit_button
 {
 	margin-top: 20px; 
@@ -9,18 +12,18 @@
 	margin-top: 20px; 
 	margin-bottom: 20px; 
 }
-
 input
 {
 	margin: 10px;
+	font-family: inherit;
 }
 #display_name_with_commas
 {
 	border: 1px solid green;
-    padding: 10px;
+    	padding: 10px;
 	background-color: greenyellow;
 	border-radius: 10px;
-    width: 50%;
+    	width: 50%;
 }
 
 #display_name_without_commas
